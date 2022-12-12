@@ -1,0 +1,5 @@
+package com.hugoproject.userdept.entities;
+
+public class User {
+
+}

@@ -1,0 +1,5 @@
+package com.hugoproject.userdept.repositories;
+
+public class UserRepository {
+
+}
